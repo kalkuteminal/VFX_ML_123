@@ -7,6 +7,7 @@ public class FireBall : MonoBehaviour
     public GameObject BulletPrefab;
     public float Speedmultiplier = 1.0f;
     // Start is called before the first frame update
+    
     void Start()
     {
         
